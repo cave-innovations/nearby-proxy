@@ -2,19 +2,25 @@
   width: 100%;
 }
 .description{
+  position: relative;
   margin-top: 3%;
   display: flex;
 }
+.col{
+  right: 0%;
+  width: 30%;
+  position: absolute;
+  height: 100%;
+}
 #reviews{
-  width: 70%;
+  width: 60%;
   margin-left:3%;
   margin-right:3%;
 }
 #Reservations{
   position: sticky;
-  right: 2.5%;
-  float: right;
   top: 30%;
+  z-index: 100;
 }
 #Nearby{
   position: relative;
