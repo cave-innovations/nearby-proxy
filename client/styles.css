@@ -3,7 +3,7 @@
 }
 .description{
   margin-top: 3%;
-  display: inline-flex;
+  display: flex;
 }
 #reviews{
   width: 70%;
