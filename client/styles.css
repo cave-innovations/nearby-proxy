@@ -20,7 +20,6 @@
 #Reservations{
   position: sticky;
   top: 30%;
-  z-index: 100;
 }
 #Nearby{
   position: relative;
