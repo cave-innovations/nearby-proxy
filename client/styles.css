@@ -9,12 +9,12 @@
   width: 70%;
   margin-left:3%;
   margin-right:3%;
-  top: 40%;
-  position: sticky;
 }
 #Reservations{
-  position: relative;
-  left: auto;
+  position: sticky;
+  right: 2.5%;
+  float: right;
+  top: 30%;
 }
 #Nearby{
   position: relative;
